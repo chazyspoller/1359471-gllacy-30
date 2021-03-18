@@ -1393,7 +1393,12 @@ img {
   margin-right: 15px;
 }
 
-.filters-form legend {
+.title-cost {
+  margin: 0;
+  padding: 0;
+}
+
+.filters-form legend, .title-cost {
   margin-left: 16px;
   margin-bottom: 7px;
 }
